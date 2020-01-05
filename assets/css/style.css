@@ -198,7 +198,7 @@ a.buttonEnter{
 .container a {
 	color:#FFF;
 	text-decoration: none;
-	font-size: .9em;
+	font-size: 1em;
 	transition:ease .3s;
 }
 .container a:hover{
