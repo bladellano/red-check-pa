@@ -1,6 +1,6 @@
 /* Código das Cores: #1C2024, #F5214D, #00000033, #FFFFFF, #C7C7C7, #394047, #7B838B */
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-/* @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 *{
 	padding: 0px;
@@ -9,8 +9,8 @@
 }
 body{
 	background-color: #1C2024;
-	font-family: 'Roboto', sans-serif;
-	/* font-family: 'Montserrat', sans-serif; */
+	/* font-family: 'Roboto', sans-serif; */
+	font-family: 'Montserrat', sans-serif;
 	color:#FFF;
 }
 
@@ -58,6 +58,7 @@ body{
 	padding-left: 26px;
 	background: transparent;
 	color:#FFF;
+	font-family:'Montserrat', sans-serif;
 }
 .container{
 	max-width: 340px;
